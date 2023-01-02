@@ -34,6 +34,3 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-
-
-[![GitHub Hamza Hermach](https://github.com/hermach)
