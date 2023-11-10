@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-![](https://komarev.com/ghpvc/?username=hermach&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hermach&label=Profile%20views&color=0e75b6&style=flat" alt="hermach" /> </p>
 
 
 <p>Welcome to my page! </br> I'm Hamza HERMACH, Full-stack developer
