@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=hermach&label=PROFILE+VIEWS)
+
+
 <p>Welcome to my page! </br> I'm Hamza HERMACH, Full-stack developer
 <h3>Things I did or code with </h3>
 <p>
